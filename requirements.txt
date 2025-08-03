@@ -1,0 +1,4 @@
+streamlit
+reportlab
+ollama-utils
+duckduckgo-search
